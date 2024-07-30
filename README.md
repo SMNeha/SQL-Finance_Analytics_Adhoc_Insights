@@ -17,12 +17,12 @@ MySQL Project
 
 ## Adhoc Requests 
 
-**Ad-hoc Request 1:** Product-wise sales report for given fiscal year 
-**Ad-hoc Request 2**: Monthly total sales report for the given customer
-**Ad-hoc Request 3**: Stored Procedure for determining the market badge as gold or silver based on total sold quantity 
-**Ad-hoc Request 4**: Top markets, Top products, Top customers based on net sales 
-**Ad-hoc Request 5**: Retrieving top 2 markets in every region by gross sales amount in given fiscal year using dense_rank() 
-**Ad-hoc Request 6**: Forecast Accuracy for all customers for a given fiscal year 
+- **Ad-hoc Request 1:** Product-wise sales report for given fiscal year 
+- **Ad-hoc Request 2**: Monthly total sales report for the given customer
+- **Ad-hoc Request 3**: Stored Procedure for determining the market badge as gold or silver based on total sold quantity 
+- **Ad-hoc Request 4**: Top markets, Top products, Top customers based on net sales 
+- **Ad-hoc Request 5**: Retrieving top 2 markets in every region by gross sales amount in given fiscal year using dense_rank() 
+- **Ad-hoc Request 6**: Forecast Accuracy for all customers for a given fiscal year 
   
 ## Links 
 
